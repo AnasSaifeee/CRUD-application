@@ -11,6 +11,10 @@ function App() {
 
   const [newWage, setNewWage] = useState(0);
 
+
+
+  
+
   const [employeeList, setEmployeeList] = useState([]);
 
   const addEmployee = () => {
